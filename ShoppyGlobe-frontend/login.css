@@ -1,0 +1,12 @@
+const style = {
+    button:{
+        padding: "10px 20px",
+        fontSize: "16px", 
+        cursor: "pointer",
+        backgroundColor: "green",
+        color: "white",
+        border: "none",
+        borderRadius:"6px"
+}
+   
+}
